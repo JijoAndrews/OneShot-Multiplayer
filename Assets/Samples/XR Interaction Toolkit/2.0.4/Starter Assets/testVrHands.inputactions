@@ -1,0 +1,34 @@
+{
+    "name": "testVrHands",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "e3be18eb-0683-4586-b62d-f764bb09db4c",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "b0bc48cb-9da4-4a97-bb07-b47dfcafc1ca",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a31d7d25-f52e-43e6-b23f-25ad82625def",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
